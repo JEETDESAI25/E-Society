@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    
+    <color name="Black">#000000</color>
+    <color name="Grey">#5F5B5B</color>
+    <color name="Purple">#7c4dff</color>
+    <color name="Green">#00bfa5</color>
+    <color name="Pink">#ff4081</color>
+    <color name="login_form_detail">#ccffffff</color>
+    <color name="login_form_detail_light">#1affffff</color>
+    <color name="login_form_detail_dark">#66ffffff</color>
+    
+</resources>
